@@ -1,0 +1,218 @@
+﻿Term,GO,Species,pvalue,log_pvalue,Color
+peptide biosynthetic process,GO:0006412;GO:0043043,eSsiderea,1.77E-13,12.75190057,Green
+amide biosynthetic process,GO:0006412;GO:0043043;GO:0006518;GO:0043604,eSsiderea,2.60E-11,10.58528707,Green
+regulation of viral life cycle,,dPasteroides,4.31E-07,6.365207738,Green
+positive regulation of viral process,GO:1903902;GO:0048524,dPasteroides,2.36E-06,5.626505268,Green
+receptor metabolic process,GO:0043112,cCnatans,8.27E-06,5.082735816,Green
+glutamate metabolic process,GO:0006536;GO:0009084,cCnatans,0.000258856,3.586941281,Green
+amide biosynthetic process,GO:0006412;GO:0043043;GO:0006518;GO:0043604,cCnatans,0.000451971,3.344889043,Green
+glutamine family amino acid metabolic process,GO:0009064,cCnatans,0.000961549,3.017028706,Green
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,aOfaveolata,0.001321478,2.878940156,Blue
+cellular macromolecule catabolic process,GO:0044265,cCnatans,0.001344088,2.871572154,Green
+response to amino acid starvation,GO:0034198;GO:1990928,eSsiderea,0.001684423,2.773548822,Green
+digestive system process,GO:0022600,bMcavernosa,0.00184604,2.733758795,Green
+regulation of inflammatory response,GO:0050727,dPasteroides,0.001977902,2.703795242,Green
+proteasomal protein catabolic process,GO:0010498;GO:0043161,cCnatans,0.002871178,2.541939814,Green
+phospholipid metabolic process,GO:0006644;GO:0046486,bMcavernosa,0.00305907,2.514410584,Green
+defense response,,bMcavernosa,0.003652164,2.437449704,Green
+defense response to fungus,GO:0050832,dPasteroides,0.003894084,2.4095947,Green
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474;GO:0002479;GO:0042590,cCnatans,0.005277442,2.277576491,Green
+response to food,GO:0032094,bMcavernosa,0.005383324,2.268949521,Green
+alpha-amino acid biosynthetic process,GO:1901607,cCnatans,0.006015416,2.220734298,Green
+receptor metabolic process,GO:0043112,bMcavernosa,0.006769977,2.169412798,Green
+mRNA metabolic process,GO:0016071,cCnatans,0.006958954,2.157456062,Green
+lipid transport,GO:0006869,bMcavernosa,0.006978206,2.156256235,Green
+defense response to Gram-negative bacterium,GO:0050829,dPasteroides,0.007418486,2.129684747,Green
+cellular glucose homeostasis,GO:0001678,aOfaveolata,0.007671068,2.11514417,Green
+positive regulation of NF-kappaB transcription factor activity,GO:0051092,cCnatans,0.007988023,2.097560689,Green
+guanosine-containing compound metabolic process,GO:0006184;GO:0046039;GO:1901068;GO:1901069,cCnatans,0.007988023,2.097560689,Green
+dicarboxylic acid metabolic process,GO:0043648,cCnatans,0.008417219,2.074831399,Green
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,cCnatans,0.010341076,1.985434254,Green
+response to lipid,GO:0033993,bMcavernosa,0.012226763,1.912688512,Green
+regulation of interleukin-6 production,GO:0032675,dPasteroides,0.012610577,1.899265039,Green
+immune response-regulating cell surface receptor signaling pathway,GO:0002429;GO:0002768;GO:0050851,cCnatans,0.014746218,1.831319362,Green
+regulation of toll-like receptor signaling pathway,GO:0034121,dPasteroides,0.014746626,1.831307345,Green
+diterpenoid metabolic process,GO:0016101;GO:0001523,bMcavernosa,0.020189959,1.694864567,Green
+defense response,,aOfaveolata,0.020345894,1.691523213,Blue
+regulation of type I interferon production,GO:0032479,cCnatans,0.020402922,1.690307627,Green
+cellular response to carbohydrate stimulus,GO:0071322,aOfaveolata,0.021664758,1.664246165,Green
+mRNA metabolic process,GO:0016071,dPasteroides,0.021895206,1.659650964,Green
+carbohydrate homeostasis,GO:0033500;GO:0042593,dPasteroides,0.021895206,1.659650964,Green
+regulation of cytokine secretion,GO:0050707;GO:0050715,dPasteroides,0.02505389,1.601124839,Green
+activation of innate immune response,GO:0002218;GO:0002221;GO:0002758,cCnatans,0.027340081,1.563200196,Green
+cellular glucose homeostasis,GO:0001678,dPasteroides,0.028466406,1.545667364,Green
+regulation of nucleotide metabolic process,GO:0006140;GO:1900542;GO:0009118;GO:0030811;GO:0033121,bMcavernosa,0.042017637,1.376568377,Green
+regulation of toll-like receptor signaling pathway,GO:0034121,cCnatans,0.044716161,1.349535487,Green
+Toll signaling pathway,GO:0002224;GO:0002755;GO:0002756;GO:0008063;GO:0034130;GO:0034134;GO:0034138;GO:0034142;GO:0035666,cCnatans,0.044716161,1.349535487,Green
+glycerophospholipid metabolic process,GO:0006650;GO:0046474;GO:0008654;GO:0045017,bMcavernosa,0.045570467,1.341316519,Green
+response to monosaccharide,GO:0009746;GO:0034284;GO:0009749,cCnatans,0.045865401,1.338514802,Green
+digestion,GO:0007586,bMcavernosa,0.047054581,1.327398091,Green
+regulation of cytokine secretion,GO:0050707;GO:0050715,aOfaveolata,0.06,1.22184875,Grey
+positive regulation of NF-kappaB transcription factor activity,GO:0051092,aOfaveolata,0.061282156,1.212665962,Grey
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,dPasteroides,0.104721541,0.979963978,Grey
+regulation of type I interferon production,GO:0032479,aOfaveolata,0.125428634,0.901603308,Grey
+activation of innate immune response,GO:0002218;GO:0002221;GO:0002758,aOfaveolata,0.125428634,0.901603308,Grey
+Toll signaling pathway,GO:0002224;GO:0002755;GO:0002756;GO:0008063;GO:0034130;GO:0034134;GO:0034138;GO:0034142;GO:0035666,aOfaveolata,0.272304898,0.564944547,Grey
+regulation of viral life cycle,,bMcavernosa,1,0,Grey
+regulation of viral life cycle,,aOfaveolata,1,0,Grey
+defense response,,cCnatans,1,0,Grey
+regulation of viral life cycle,,cCnatans,1,0,Grey
+defense response,,dPasteroides,1,0,Grey
+defense response,,eSsiderea,1,0,Grey
+regulation of viral life cycle,,eSsiderea,1,0,Grey
+regulation of viral life cycle,,bMcavernosa,1,0,Grey
+regulation of viral life cycle,,aOfaveolata,1,0,Grey
+regulation of viral life cycle,,cCnatans,1,0,Grey
+positive regulation of viral process,GO:1903902;GO:0048524,eSsiderea,1.00E+00,0,Grey
+positive regulation of viral process,GO:1903902;GO:0048524,bMcavernosa,1,0,Grey
+positive regulation of viral process,GO:1903902;GO:0048524,aOfaveolata,1,0,Grey
+positive regulation of viral process,GO:1903902;GO:0048524,cCnatans,1,0,Grey
+regulation of inflammatory response,GO:0050727,eSsiderea,1.00E+00,0,Grey
+regulation of inflammatory response,GO:0050727,bMcavernosa,1,0,Grey
+regulation of inflammatory response,GO:0050727,aOfaveolata,1,0,Grey
+regulation of inflammatory response,GO:0050727,cCnatans,1,0,Grey
+defense response to fungus,GO:0050832,eSsiderea,1.00E+00,0,Grey
+defense response to fungus,GO:0050832,bMcavernosa,1,0,Grey
+defense response to fungus,GO:0050832,aOfaveolata,1,0,Grey
+defense response to fungus,GO:0050832,cCnatans,1,0,Grey
+defense response to Gram-negative bacterium,GO:0050829,eSsiderea,1.00E+00,0,Grey
+defense response to Gram-negative bacterium,GO:0050829,bMcavernosa,1,0,Grey
+defense response to Gram-negative bacterium,GO:0050829,aOfaveolata,1,0,Grey
+defense response to Gram-negative bacterium,GO:0050829,cCnatans,1,0,Grey
+regulation of interleukin-6 production,GO:0032675,eSsiderea,1.00E+00,0,Grey
+regulation of interleukin-6 production,GO:0032675,bMcavernosa,1,0,Grey
+regulation of interleukin-6 production,GO:0032675,aOfaveolata,1,0,Grey
+regulation of interleukin-6 production,GO:0032675,cCnatans,1,0,Grey
+regulation of toll-like receptor signaling pathway,GO:0034121,eSsiderea,1.00E+00,0,Grey
+regulation of toll-like receptor signaling pathway,GO:0034121,bMcavernosa,1,0,Grey
+regulation of toll-like receptor signaling pathway,GO:0034121,aOfaveolata,1,0,Grey
+regulation of cytokine secretion,GO:0050707;GO:0050715,eSsiderea,1,0,Grey
+regulation of cytokine secretion,GO:0050707;GO:0050715,bMcavernosa,1,0,Grey
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474;GO:0002479;GO:0042590,dPasteroides,1,0,Grey
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474;GO:0002479;GO:0042590,eSsiderea,1,0,Grey
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474;GO:0002479;GO:0042590,bMcavernosa,1,0,Grey
+antigen processing and presentation of peptide antigen via MHC class I,GO:0002474;GO:0002479;GO:0042590,aOfaveolata,1,0,Grey
+positive regulation of NF-kappaB transcription factor activity,GO:0051092,dPasteroides,1,0,Grey
+positive regulation of NF-kappaB transcription factor activity,GO:0051092,eSsiderea,1,0,Grey
+positive regulation of NF-kappaB transcription factor activity,GO:0051092,bMcavernosa,1,0,Grey
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,eSsiderea,1,0,Grey
+I-kappaB kinase/NF-kappaB signaling,GO:0007249,bMcavernosa,1,0,Grey
+immune response-regulating cell surface receptor signaling pathway,GO:0002429;GO:0002768;GO:0050851,dPasteroides,1,0,Grey
+immune response-regulating cell surface receptor signaling pathway,GO:0002429;GO:0002768;GO:0050851,eSsiderea,1,0,Grey
+immune response-regulating cell surface receptor signaling pathway,GO:0002429;GO:0002768;GO:0050851,bMcavernosa,1,0,Grey
+immune response-regulating cell surface receptor signaling pathway,GO:0002429;GO:0002768;GO:0050851,aOfaveolata,1,0,Grey
+regulation of type I interferon production,GO:0032479,dPasteroides,1,0,Grey
+regulation of type I interferon production,GO:0032479,eSsiderea,1,0,Grey
+regulation of type I interferon production,GO:0032479,bMcavernosa,1,0,Grey
+activation of innate immune response,GO:0002218;GO:0002221;GO:0002758,dPasteroides,1,0,Grey
+activation of innate immune response,GO:0002218;GO:0002221;GO:0002758,eSsiderea,1,0,Grey
+activation of innate immune response,GO:0002218;GO:0002221;GO:0002758,bMcavernosa,1,0,Grey
+Toll signaling pathway,GO:0002224;GO:0002755;GO:0002756;GO:0008063;GO:0034130;GO:0034134;GO:0034138;GO:0034142;GO:0035666,dPasteroides,1,0,Grey
+Toll signaling pathway,GO:0002224;GO:0002755;GO:0002756;GO:0008063;GO:0034130;GO:0034134;GO:0034138;GO:0034142;GO:0035666,eSsiderea,1,0,Grey
+Toll signaling pathway,GO:0002224;GO:0002755;GO:0002756;GO:0008063;GO:0034130;GO:0034134;GO:0034138;GO:0034142;GO:0035666,bMcavernosa,1,0,Grey
+cellular glucose homeostasis,GO:0001678,bMcavernosa,1,0,Grey
+cellular glucose homeostasis,GO:0001678,cCnatans,1,0,Grey
+cellular glucose homeostasis,GO:0001678,eSsiderea,1,0,Grey
+cellular response to carbohydrate stimulus,GO:0071322,bMcavernosa,1,0,Grey
+cellular response to carbohydrate stimulus,GO:0071322,cCnatans,1,0,Grey
+cellular response to carbohydrate stimulus,GO:0071322,dPasteroides,1,0,Grey
+cellular response to carbohydrate stimulus,GO:0071322,eSsiderea,1,0,Grey
+digestive system process,GO:0022600,aOfaveolata,1,0,Grey
+digestive system process,GO:0022600,cCnatans,1,0,Grey
+digestive system process,GO:0022600,dPasteroides,1,0,Grey
+digestive system process,GO:0022600,eSsiderea,1,0,Grey
+phospholipid metabolic process,GO:0006644;GO:0046486,aOfaveolata,1,0,Grey
+phospholipid metabolic process,GO:0006644;GO:0046486,cCnatans,1,0,Grey
+phospholipid metabolic process,GO:0006644;GO:0046486,dPasteroides,1,0,Grey
+phospholipid metabolic process,GO:0006644;GO:0046486,eSsiderea,1,0,Grey
+response to food,GO:0032094,aOfaveolata,1,0,Grey
+response to food,GO:0032094,cCnatans,1,0,Grey
+response to food,GO:0032094,dPasteroides,1,0,Grey
+response to food,GO:0032094,eSsiderea,1,0,Grey
+receptor metabolic process,GO:0043112,aOfaveolata,1,0,Grey
+receptor metabolic process,GO:0043112,cCnatans,1,0,Grey
+receptor metabolic process,GO:0043112,dPasteroides,1,0,Grey
+receptor metabolic process,GO:0043112,eSsiderea,1,0,Grey
+lipid transport,GO:0006869,aOfaveolata,1,0,Grey
+lipid transport,GO:0006869,cCnatans,1,0,Grey
+lipid transport,GO:0006869,dPasteroides,1,0,Grey
+lipid transport,GO:0006869,eSsiderea,1,0,Grey
+response to lipid,GO:0033993,aOfaveolata,1,0,Grey
+response to lipid,GO:0033993,cCnatans,1,0,Grey
+response to lipid,GO:0033993,dPasteroides,1,0,Grey
+response to lipid,GO:0033993,eSsiderea,1,0,Grey
+diterpenoid metabolic process,GO:0016101;GO:0001523,aOfaveolata,1,0,Grey
+diterpenoid metabolic process,GO:0016101;GO:0001523,cCnatans,1,0,Grey
+diterpenoid metabolic process,GO:0016101;GO:0001523,dPasteroides,1,0,Grey
+diterpenoid metabolic process,GO:0016101;GO:0001523,eSsiderea,1,0,Grey
+regulation of nucleotide metabolic process,GO:0006140;GO:1900542;GO:0009118;GO:0030811;GO:0033121,aOfaveolata,1,0,Grey
+regulation of nucleotide metabolic process,GO:0006140;GO:1900542;GO:0009118;GO:0030811;GO:0033121,cCnatans,1,0,Grey
+regulation of nucleotide metabolic process,GO:0006140;GO:1900542;GO:0009118;GO:0030811;GO:0033121,dPasteroides,1,0,Grey
+regulation of nucleotide metabolic process,GO:0006140;GO:1900542;GO:0009118;GO:0030811;GO:0033121,eSsiderea,1,0,Grey
+glycerophospholipid metabolic process,GO:0006650;GO:0046474;GO:0008654;GO:0045017,aOfaveolata,1,0,Grey
+glycerophospholipid metabolic process,GO:0006650;GO:0046474;GO:0008654;GO:0045017,cCnatans,1,0,Grey
+glycerophospholipid metabolic process,GO:0006650;GO:0046474;GO:0008654;GO:0045017,dPasteroides,1,0,Grey
+glycerophospholipid metabolic process,GO:0006650;GO:0046474;GO:0008654;GO:0045017,eSsiderea,1,0,Grey
+digestion,GO:0007586,aOfaveolata,1,0,Grey
+digestion,GO:0007586,cCnatans,1,0,Grey
+digestion,GO:0007586,dPasteroides,1,0,Grey
+digestion,GO:0007586,eSsiderea,1,0,Grey
+receptor metabolic process,GO:0043112,aOfaveolata,1,0,Grey
+receptor metabolic process,GO:0043112,bMcavernosa,1,0,Grey
+receptor metabolic process,GO:0043112,dPasteroides,1,0,Grey
+receptor metabolic process,GO:0043112,eSsiderea,1,0,Grey
+glutamate metabolic process,GO:0006536;GO:0009084,aOfaveolata,1,0,Grey
+glutamate metabolic process,GO:0006536;GO:0009084,bMcavernosa,1,0,Grey
+glutamate metabolic process,GO:0006536;GO:0009084,dPasteroides,1,0,Grey
+glutamate metabolic process,GO:0006536;GO:0009084,eSsiderea,1,0,Grey
+amide biosynthetic process,GO:0006412;GO:0043043;GO:0006518;GO:0043604,aOfaveolata,1,0,Grey
+amide biosynthetic process,GO:0006412;GO:0043043;GO:0006518;GO:0043604,bMcavernosa,1,0,Grey
+amide biosynthetic process,GO:0006412;GO:0043043;GO:0006518;GO:0043604,dPasteroides,1,0,Grey
+glutamine family amino acid metabolic process,GO:0009064,aOfaveolata,1,0,Grey
+glutamine family amino acid metabolic process,GO:0009064,bMcavernosa,1,0,Grey
+glutamine family amino acid metabolic process,GO:0009064,dPasteroides,1,0,Grey
+glutamine family amino acid metabolic process,GO:0009064,eSsiderea,1,0,Grey
+cellular macromolecule catabolic process,GO:0044265,aOfaveolata,1,0,Grey
+cellular macromolecule catabolic process,GO:0044265,bMcavernosa,1,0,Grey
+cellular macromolecule catabolic process,GO:0044265,dPasteroides,1,0,Grey
+cellular macromolecule catabolic process,GO:0044265,eSsiderea,1,0,Grey
+proteasomal protein catabolic process,GO:0010498;GO:0043161,aOfaveolata,1,0,Grey
+proteasomal protein catabolic process,GO:0010498;GO:0043161,bMcavernosa,1,0,Grey
+proteasomal protein catabolic process,GO:0010498;GO:0043161,dPasteroides,1,0,Grey
+proteasomal protein catabolic process,GO:0010498;GO:0043161,eSsiderea,1,0,Grey
+alpha-amino acid biosynthetic process,GO:1901607,aOfaveolata,1,0,Grey
+alpha-amino acid biosynthetic process,GO:1901607,bMcavernosa,1,0,Grey
+alpha-amino acid biosynthetic process,GO:1901607,dPasteroides,1,0,Grey
+alpha-amino acid biosynthetic process,GO:1901607,eSsiderea,1,0,Grey
+mRNA metabolic process,GO:0016071,aOfaveolata,1,0,Grey
+mRNA metabolic process,GO:0016071,bMcavernosa,1,0,Grey
+mRNA metabolic process,GO:0016071,eSsiderea,1,0,Grey
+guanosine-containing compound metabolic process,GO:0006184;GO:0046039;GO:1901068;GO:1901069,aOfaveolata,1,0,Grey
+guanosine-containing compound metabolic process,GO:0006184;GO:0046039;GO:1901068;GO:1901069,bMcavernosa,1,0,Grey
+guanosine-containing compound metabolic process,GO:0006184;GO:0046039;GO:1901068;GO:1901069,dPasteroides,1,0,Grey
+guanosine-containing compound metabolic process,GO:0006184;GO:0046039;GO:1901068;GO:1901069,eSsiderea,1,0,Grey
+dicarboxylic acid metabolic process,GO:0043648,aOfaveolata,1,0,Grey
+dicarboxylic acid metabolic process,GO:0043648,bMcavernosa,1,0,Grey
+dicarboxylic acid metabolic process,GO:0043648,dPasteroides,1,0,Grey
+dicarboxylic acid metabolic process,GO:0043648,eSsiderea,1,0,Grey
+response to monosaccharide,GO:0009746;GO:0034284;GO:0009749,aOfaveolata,1,0,Grey
+response to monosaccharide,GO:0009746;GO:0034284;GO:0009749,bMcavernosa,1,0,Grey
+response to monosaccharide,GO:0009746;GO:0034284;GO:0009749,dPasteroides,1,0,Grey
+response to monosaccharide,GO:0009746;GO:0034284;GO:0009749,eSsiderea,1,0,Grey
+carbohydrate homeostasis,GO:0033500;GO:0042593,aOfaveolata,1,0,Grey
+carbohydrate homeostasis,GO:0033500;GO:0042593,bMcavernosa,1,0,Grey
+carbohydrate homeostasis,GO:0033500;GO:0042593,cCnatans,1,0,Grey
+carbohydrate homeostasis,GO:0033500;GO:0042593,eSsiderea,1,0,Grey
+peptide biosynthetic process,GO:0006412;GO:0043043,aOfaveolata,1,0,Grey
+peptide biosynthetic process,GO:0006412;GO:0043043,bMcavernosa,1,0,Grey
+peptide biosynthetic process,GO:0006412;GO:0043043,cCnatans,1,0,Grey
+peptide biosynthetic process,GO:0006412;GO:0043043,dPasteroides,1,0,Grey
+response to amino acid starvation,GO:0034198;GO:1990928,aOfaveolata,1,0,Grey
+response to amino acid starvation,GO:0034198;GO:1990928,bMcavernosa,1,0,Grey
+response to amino acid starvation,GO:0034198;GO:1990928,cCnatans,1,0,Grey
+response to amino acid starvation,GO:0034198;GO:1990928,dPasteroides,1,0,Grey
+calcium ion transmembrane transport,GO:0070588,aOfaveolata,0.0032,3.45,Green
+calcium ion transmembrane transport,GO:0070588,bMcavernosa,1,0,Grey
+calcium ion transmembrane transport,GO:0070588,cCnatans,1,0,Grey
+calcium ion transmembrane transport,GO:0070588,dPasteroides,1,0,Grey
+calcium ion transmembrane transport,GO:0070588,eSsiderea,1,0,Grey
