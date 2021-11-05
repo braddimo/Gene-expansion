@@ -1,0 +1,191 @@
+﻿Term,Species,log_pvalue,Color
+A_activation of innate immune response,A_Ofav,0,Grey
+A_activation of innate immune response,B_Mcav,1.1,Green
+A_activation of innate immune response,C_Cnat,2.263623261,Green
+A_activation of innate immune response,D_Past,0,Grey
+A_activation of innate immune response,E_Ssid,0,Grey
+A_antibiotic metabolic process,A_Ofav,0,Grey
+A_antibiotic metabolic process,B_Mcav,0,Grey
+A_antibiotic metabolic process,C_Cnat,0,Grey
+A_antibiotic metabolic process,D_Past,7.433726645,Green
+A_antibiotic metabolic process,E_Ssid,0,Grey
+C_biological adhesion,A_Ofav,0,Grey
+C_biological adhesion,B_Mcav,0,Grey
+C_biological adhesion,C_Cnat,1.651072167,Green
+C_biological adhesion,D_Past,0,Grey
+C_biological adhesion,E_Ssid,0,Grey
+C_cellular homeostasis,A_Ofav,3.643974143,Blue
+C_cellular homeostasis,B_Mcav,0,Grey
+C_cellular homeostasis,C_Cnat,0,Grey
+C_cellular homeostasis,D_Past,0,Grey
+C_cellular homeostasis,E_Ssid,0,Grey
+C_cilium movement,A_Ofav,1.777318508,Green
+C_cilium movement,B_Mcav,0,Grey
+C_cilium movement,C_Cnat,0,Grey
+C_cilium movement,D_Past,0,Grey
+C_cilium movement,E_Ssid,0,Grey
+C_cytokinesis,A_Ofav,0,Grey
+C_cytokinesis,B_Mcav,4.803877676,Green
+C_cytokinesis,C_Cnat,0,Grey
+C_cytokinesis,D_Past,0,Grey
+C_cytokinesis,E_Ssid,0,Grey
+A_defense response,A_Ofav,0,Grey
+A_defense response,B_Mcav,4.261323014,Green
+A_defense response,C_Cnat,0,Grey
+A_defense response,D_Past,6.38016089,Green
+A_defense response,E_Ssid,0,Grey
+A_defense response to Gram-positive bacterium,A_Ofav,0,Grey
+A_defense response to Gram-positive bacterium,B_Mcav,1.979151762,Green
+A_defense response to Gram-positive bacterium,C_Cnat,0,Grey
+A_defense response to Gram-positive bacterium,D_Past,0,Grey
+A_defense response to Gram-positive bacterium,E_Ssid,0,Grey
+A_immune response,A_Ofav,0,Grey
+A_immune response,B_Mcav,0,Grey
+A_immune response,C_Cnat,0,Grey
+A_immune response,D_Past,3.20207863,Green
+A_immune response,E_Ssid,0,Grey
+A_inflammatory response,A_Ofav,0,Grey
+A_inflammatory response,B_Mcav,0,Grey
+A_inflammatory response,C_Cnat,0,Grey
+A_inflammatory response,D_Past,11.00408793,Green
+A_inflammatory response,E_Ssid,0,Grey
+C_ion homeostasis,A_Ofav,4.954677021,Blue
+C_ion homeostasis,B_Mcav,0,Grey
+C_ion homeostasis,C_Cnat,0,Grey
+C_ion homeostasis,D_Past,0,Grey
+C_ion homeostasis,E_Ssid,0,Grey
+C_iron ion homeostasis,A_Ofav,0,Grey
+C_iron ion homeostasis,B_Mcav,3.702657566,Green
+C_iron ion homeostasis,C_Cnat,0,Grey
+C_iron ion homeostasis,D_Past,0,Grey
+C_iron ion homeostasis,E_Ssid,0,Grey
+A_leukocyte migration,A_Ofav,0,Grey
+A_leukocyte migration,B_Mcav,2.783839847,Green
+A_leukocyte migration,C_Cnat,0,Grey
+A_leukocyte migration,D_Past,7.721489039,Green
+A_leukocyte migration,E_Ssid,0,Grey
+B_lipid storage,A_Ofav,1.614082879,Green
+B_lipid storage,B_Mcav,0,Grey
+B_lipid storage,C_Cnat,0,Grey
+B_lipid storage,D_Past,0,Grey
+B_lipid storage,E_Ssid,0,Grey
+B_long-chain fatty acid metabolic process,A_Ofav,7.617982957,Blue
+B_long-chain fatty acid metabolic process,B_Mcav,0,Grey
+B_long-chain fatty acid metabolic process,C_Cnat,0,Grey
+B_long-chain fatty acid metabolic process,D_Past,8.426777768,Green
+B_long-chain fatty acid metabolic process,E_Ssid,0,Grey
+B_monocarboxylic acid biosynthetic process,A_Ofav,4.26520017,Blue
+B_monocarboxylic acid biosynthetic process,B_Mcav,0,Grey
+B_monocarboxylic acid biosynthetic process,C_Cnat,0,Grey
+B_monocarboxylic acid biosynthetic process,D_Past,0,Grey
+B_monocarboxylic acid biosynthetic process,E_Ssid,0,Grey
+C_morphogenesis of a polarized epithelium,A_Ofav,0,Grey
+C_morphogenesis of a polarized epithelium,B_Mcav,0,Grey
+C_morphogenesis of a polarized epithelium,C_Cnat,3.854020891,Green
+C_morphogenesis of a polarized epithelium,D_Past,0,Grey
+C_morphogenesis of a polarized epithelium,E_Ssid,0,Grey
+B_peptide metabolic process,A_Ofav,0,Grey
+B_peptide metabolic process,B_Mcav,0,Grey
+B_peptide metabolic process,C_Cnat,0,Grey
+B_peptide metabolic process,D_Past,0,Grey
+B_peptide metabolic process,E_Ssid,3.168730769,Green
+A_Phagocytosis,A_Ofav,1.331353259,Blue
+A_Phagocytosis,B_Mcav,1.570950992,Green
+A_Phagocytosis,C_Cnat,0,Grey
+A_Phagocytosis,D_Past,4.845477447,Green
+A_Phagocytosis,E_Ssid,0,Grey
+B_positive regulation of glucose transmembrane transport,A_Ofav,0,Grey
+B_positive regulation of glucose transmembrane transport,B_Mcav,0,Grey
+B_positive regulation of glucose transmembrane transport,C_Cnat,0,Grey
+B_positive regulation of glucose transmembrane transport,D_Past,4.761064984,Green
+B_positive regulation of glucose transmembrane transport,E_Ssid,0,Grey
+C_protein folding,A_Ofav,5.835647144,Green
+C_protein folding,B_Mcav,0,Grey
+C_protein folding,C_Cnat,0,Grey
+C_protein folding,D_Past,24.25209232,Green
+C_protein folding,E_Ssid,0,Grey
+C_regeneration,A_Ofav,0,Grey
+C_regeneration,B_Mcav,7.541654031,Green
+C_regeneration,C_Cnat,0,Grey
+C_regeneration,D_Past,3.506344034,Green
+C_regeneration,E_Ssid,0,Grey
+C_regulation of anatomical structure size,A_Ofav,3.440324342,Blue
+C_regulation of anatomical structure size,B_Mcav,0,Grey
+C_regulation of anatomical structure size,C_Cnat,0,Grey
+C_regulation of anatomical structure size,D_Past,0,Grey
+C_regulation of anatomical structure size,E_Ssid,0,Grey
+A_regulation of apoptotic cell clearance,A_Ofav,0,Grey
+A_regulation of apoptotic cell clearance,B_Mcav,0,Grey
+A_regulation of apoptotic cell clearance,C_Cnat,0,Grey
+A_regulation of apoptotic cell clearance,D_Past,5.169684099,Green
+A_regulation of apoptotic cell clearance,E_Ssid,0,Grey
+C_regulation of BMP signaling pathway,A_Ofav,0,Grey
+C_regulation of BMP signaling pathway,B_Mcav,3.835873071,Green
+C_regulation of BMP signaling pathway,C_Cnat,0,Grey
+C_regulation of BMP signaling pathway,D_Past,0,Grey
+C_regulation of BMP signaling pathway,E_Ssid,0,Grey
+C_regulation of inclusion body assembly,A_Ofav,0,Grey
+C_regulation of inclusion body assembly,B_Mcav,0,Grey
+C_regulation of inclusion body assembly,C_Cnat,0,Grey
+C_regulation of inclusion body assembly,D_Past,41.22832526,Green
+C_regulation of inclusion body assembly,E_Ssid,0,Grey
+A_regulation of macrophage migration,A_Ofav,0,Grey
+A_regulation of macrophage migration,B_Mcav,0,Grey
+A_regulation of macrophage migration,C_Cnat,0,Grey
+A_regulation of macrophage migration,D_Past,6.156087009,Green
+A_regulation of macrophage migration,E_Ssid,0,Grey
+A_regulation of NIK/NF-kappaB signaling,A_Ofav,0,Grey
+A_regulation of NIK/NF-kappaB signaling,B_Mcav,1.401343668,Green
+A_regulation of NIK/NF-kappaB signaling,C_Cnat,0.88269804,Grey
+A_regulation of NIK/NF-kappaB signaling,D_Past,0,Grey
+A_regulation of NIK/NF-kappaB signaling,E_Ssid,0,Grey
+C_regulation of wound healing,A_Ofav,0,Grey
+C_regulation of wound healing,B_Mcav,8.15919931,Green
+C_regulation of wound healing,C_Cnat,0,Grey
+C_regulation of wound healing,D_Past,0,Grey
+C_regulation of wound healing,E_Ssid,0,Grey
+A_response to antibiotic,A_Ofav,4.077274542,Blue
+A_response to antibiotic,B_Mcav,0,Grey
+A_response to antibiotic,C_Cnat,0,Grey
+A_response to antibiotic,D_Past,0,Grey
+A_response to antibiotic,E_Ssid,0,Grey
+A_response to bacterium,A_Ofav,0,Grey
+A_response to bacterium,B_Mcav,0,Grey
+A_response to bacterium,C_Cnat,0,Grey
+A_response to bacterium,D_Past,6.843118291,Green
+A_response to bacterium,E_Ssid,0,Grey
+B_response to carbohydrate,A_Ofav,0,Grey
+B_response to carbohydrate,B_Mcav,3.428263171,Green
+B_response to carbohydrate,C_Cnat,0,Grey
+B_response to carbohydrate,D_Past,0,Grey
+B_response to carbohydrate,E_Ssid,0,Grey
+C_response to ethanol,A_Ofav,6.507239611,Blue
+C_response to ethanol,B_Mcav,0,Grey
+C_response to ethanol,C_Cnat,0,Grey
+C_response to ethanol,D_Past,0,Grey
+C_response to ethanol,E_Ssid,0,Grey
+B_response to lipid,A_Ofav,3.643974143,Blue
+B_response to lipid,B_Mcav,4.516050332,Green
+B_response to lipid,C_Cnat,0,Grey
+B_response to lipid,D_Past,5.962845171,Green
+B_response to lipid,E_Ssid,0,Grey
+A_response to molecule of bacterial origin,A_Ofav,0,Grey
+A_response to molecule of bacterial origin,B_Mcav,0,Grey
+A_response to molecule of bacterial origin,C_Cnat,0,Grey
+A_response to molecule of bacterial origin,D_Past,10.31773442,Green
+A_response to molecule of bacterial origin,E_Ssid,0,Grey
+A_response to pH,A_Ofav,0,Grey
+A_response to pH,B_Mcav,0,Grey
+A_response to pH,C_Cnat,0,Grey
+A_response to pH,D_Past,0,Grey
+A_response to pH,E_Ssid,1.716742657,Green
+A_response to toxic substance,A_Ofav,3.324640579,Blue
+A_response to toxic substance,B_Mcav,0,Grey
+A_response to toxic substance,C_Cnat,0,Grey
+A_response to toxic substance,D_Past,0,Grey
+A_response to toxic substance,E_Ssid,0,Grey
+C_tissue morphogenesis,A_Ofav,0,Grey
+C_tissue morphogenesis,B_Mcav,3.500092783,Green
+C_tissue morphogenesis,C_Cnat,0,Grey
+C_tissue morphogenesis,D_Past,0,Grey
+C_tissue morphogenesis,E_Ssid,0,Grey
