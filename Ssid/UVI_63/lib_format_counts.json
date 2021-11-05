@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ./../UVI_63/UVI_63_trim_1.fq.gz, ./../UVI_63/UVI_63_trim_2.fq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 10291341,
+    "num_assigned_fragments": 10291341,
+    "num_frags_with_concordant_consistent_mappings": 9319198,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1039184,
+    "strand_mapping_bias": 0.4986669453744839,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 4647176,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 4672022,
+    "SF": 534501,
+    "SR": 504683,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

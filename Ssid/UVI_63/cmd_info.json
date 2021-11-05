@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/opt/storage/storage/USVI_June2017/reads/LPS_reads_Emily/Ssid_ref/Ssid_reference",
+    "libType": "IU",
+    "mates1": "./../UVI_63/UVI_63_trim_1.fq.gz",
+    "mates2": "./../UVI_63/UVI_63_trim_2.fq.gz",
+    "validateMappings": [],
+    "output": "UVI_63",
+    "auxDir": "aux_info"
+}
