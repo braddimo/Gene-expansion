@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/opt/storage/storage/USVI_June2017/reads/LPS_reads_Emily/Cnat_reference/Cnat_ref",
+    "libType": "IU",
+    "mates1": "./../UVI_3/UVI_3_trim_1.fq.gz",
+    "mates2": "./../UVI_3/UVI_3_trim_2.fq.gz",
+    "validateMappings": [],
+    "output": "UVI_3",
+    "auxDir": "aux_info"
+}
