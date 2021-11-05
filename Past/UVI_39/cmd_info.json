@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/opt/storage/storage/USVI_June2017/reads/LPS_reads_Emily/Past/Past_ref",
+    "libType": "IU",
+    "mates1": "./../UVI_39/UVI_39_trim_1.fq.gz",
+    "mates2": "./../UVI_39/UVI_39_trim_2.fq.gz",
+    "validateMappings": [],
+    "output": "UVI_39",
+    "auxDir": "aux_info"
+}
