@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ./../UVI_31/UVI_31_trim_1.fq.gz, ./../UVI_31/UVI_31_trim_2.fq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 9145912,
+    "num_assigned_fragments": 9145912,
+    "num_frags_with_concordant_consistent_mappings": 8513922,
+    "num_frags_with_inconsistent_or_orphan_mappings": 978442,
+    "strand_mapping_bias": 0.5006639713166271,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 4262614,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 4251308,
+    "SF": 469921,
+    "SR": 508521,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

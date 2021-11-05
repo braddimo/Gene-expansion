@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/opt/storage/storage/USVI_June2017/reads/LPS_reads_Emily/Ofav/Ofav_revision",
+    "libType": "IU",
+    "mates1": "./../UVI_35/UVI_35_trim_1.fq.gz",
+    "mates2": "./../UVI_35/UVI_35_trim_2.fq.gz",
+    "validateMappings": [],
+    "output": "UVI_35",
+    "auxDir": "aux_info"
+}
